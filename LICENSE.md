@@ -1,4 +1,4 @@
-# 
+# Free Yi-Lightning extensions. Featuring web-scraping and document-analysis — optimized for maximum performance and efficiency.
 
 
 
